@@ -1,0 +1,9 @@
+# Entornos y secretos
+.env
+.env.local
+.env.*.local
+.vscode/
+.venv
+venv
+
+__pycache__/

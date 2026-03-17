@@ -1,0 +1,20 @@
+# Archivos y carpetas de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.log
+
+# Archivos de entorno
+#.env
+#.env.*
+
+# Archivos de Git
+.git
+.gitignore
+
+# Dependencias virtuales
+venv/
+.env/
+/frontend

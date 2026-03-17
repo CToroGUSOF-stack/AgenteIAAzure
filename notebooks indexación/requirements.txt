@@ -1,0 +1,13 @@
+pandas
+openai
+python-dotenv
+PyPDF2
+python-docx
+pdfplumber
+Pillow
+pytesseract
+pdf2image
+pymupdf
+azure-storage-blob
+azure-core
+azure-ai-documentintelligence
