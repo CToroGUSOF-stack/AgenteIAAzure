@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# Policía Nacional de Colombia - APPA-DHAA
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -265,3 +266,7 @@ El diseño garantiza alto rendimiento y escalabilidad:
 ## Soporte y Propiedad
 Desarrollado por **DataKnow** para la **Policía Nacional de Colombia**.
 
+=======
+# AgenteIAAzure
+Repositorio de codigo fuente del proyecto AgenteIAAzure pruebaPONAL
+>>>>>>> 91b54d53c8fd88ea7d9c31c54fd5be8a3e227a26
